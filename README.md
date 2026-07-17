@@ -107,7 +107,8 @@ Sensor Power: **12V DC**
 
 
 ```
-<img width="610" height="1356" alt="db" src="https://github.com/user-attachments/assets/2c3aadc9-bc70-469d-98d0-e087cba74f68" />
+<img width="610" height="1356" alt="db" src="https://github.com/user-attachments/assets/bd585677-f4d7-4364-83ec-95ac69cd6bed" />
+
 
 ```
 
