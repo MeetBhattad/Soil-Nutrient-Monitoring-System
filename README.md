@@ -105,10 +105,10 @@ Sensor Power: **12V DC**
 
 ## 📸 Dashboard
 
-(Add a screenshot here)
 
 ```
-images/dashboard.png
+<img width="610" height="1356" alt="db" src="https://github.com/user-attachments/assets/2c3aadc9-bc70-469d-98d0-e087cba74f68" />
+
 ```
 
 ---
@@ -123,13 +123,9 @@ Soil-Nutrient-Monitoring-System
 ├── README.md
 ├── images
 │   ├── dashboard.png
-│   ├── hardware.jpg
 │   └── block_diagram.png
 ├── circuit
 │   └── circuit_diagram.png
-└── docs
-├── Project_Report.pdf
-└── Presentation.pdf
 
 ```
 
